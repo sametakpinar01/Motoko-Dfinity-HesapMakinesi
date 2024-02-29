@@ -1,0 +1,1 @@
+Motoko dili kullanılarak tasarlanmış bir canister yer almaktadır. Bu canister, standart hesap makinesi işlemlerini gerçekleştirmenize olanak sağlar.
